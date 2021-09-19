@@ -8,4 +8,6 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 
 ### My Repositories 🧮
 You are free to fork and use them however you like and I would very much appreciate getting the word out if you enjoy what I am creating here.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcha92)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcha92&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcha92&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
