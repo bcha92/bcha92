@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bcha92
-- 👀 I’m interested in developing my new career.
-- 🌱 I’m currently learning coding at home and Bootcamp @ Concordia University (Montreal, Canada).
-- 💞️ I’m looking to collaborate on any projects that interest me.
-- 📫 How to reach me: bcha92@hotmail.com
-
 <!---
 bcha92/bcha92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### About Me 🖐
+Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a keen interest in server-side, backend development and helping simplify our ever-growing inter-connected world. I did not grow up learning programming or computer sciences as a first career choice but I am certainly enjoy developing my creativity and passion to new heights.
+
+### My Repositories 🧮
+You are free to fork and use them however you like and I would very much appreciate getting the word out if you enjoy what I am creating here.
