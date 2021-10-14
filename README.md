@@ -29,6 +29,8 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" />
 <!--Java-->Java
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
 ---
+
 ### My Repositories 🧮
 You are free to fork and use them however you like and I would very much appreciate getting the word out if you enjoy what I am creating here.
