@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### About Me 🖐
-Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a keen interest in server-side, backend development and helping simplify our ever-growing inter-connected world. I did not grow up learning programming or computer sciences as a first career choice but I am certainly enjoy developing my creativity and passion to new heights.
+Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a keen interest in server-side, backend development, AI, and helping simplify our ever-growing inter-connected world. I did not grow up learning programming or computer sciences as a first career choice but I am certainly enjoy developing my creativity and passion to new heights.
 - <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook-mail" /> bcha92@hotmail.com
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> <a href="https://www.linkedin.com/in/brandon-cha-928775a8/">LinkedIn</a>
 ---
