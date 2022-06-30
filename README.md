@@ -30,6 +30,7 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 ### \*\*TODO/Bucketlist\*\*
 <!--Java-->Java
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 
 ---
 
