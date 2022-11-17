@@ -63,7 +63,7 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 
 <!--AWS Badges-->
 ##### Amazon Web Services (AWS)
-<a href="https://www.credly.com/badges/fc28e27b-500d-4321-9eb4-9868cd164699/public_url" target="#">
+<a href="https://www.credly.com/badges/fc28e27b-500d-4321-9eb4-9868cd164699/public_url" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="aws-cloud-quest-cloud-practitioner" />
 </a>
 
