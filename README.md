@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### About Me 🖐
 Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a keen interest in server-side, backend development, AI, and helping simplify our ever-growing inter-connected world. I did not grow up learning programming or computer sciences as a first career choice but I am certainly enjoy developing my creativity and passion to new heights.
 - <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook-mail" /> bcha92@hotmail.com
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> <a href="https://www.linkedin.com/in/brandon-cha-928775a8/">LinkedIn</a>
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> <a href="https://www.linkedin.com/in/brandoncha/">LinkedIn</a>
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcha92&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcha92&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,18 +57,27 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 /> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="insomnia"
 />
 
-<!--Cloud Computing-->Cloud Computing
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"
+<!--Cloud Computing-->
+#### Cloud Computing
+<!--AWS Badges-->
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="amazon web services"
 />
 
-<!--AWS Badges-->
-##### Amazon Web Services (AWS)
 <a href="https://www.credly.com/badges/bf30cb3e-e6c6-4592-8e6c-027fdd871e9e/public_url" target="_blank">
   <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws-cloud-quest-cloud-practitioner" />
 </a> <a href="https://www.credly.com/badges/fc28e27b-500d-4321-9eb4-9868cd164699/public_url" target="_blank">
   <img src="https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="aws-cloud-quest-cloud-practitioner" />
 </a>
 
+--
+
+<!--Azure Badges-->
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="microsoft azure"
+/>
+
+<a href="https://www.credly.com/badges/cf151273-862b-4ae5-bbb1-6f576f89b4a0/public_url" target="_blank">
+  <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="microsoft-certified-azure-fundamentals" />
+</a>
 
 ### \*\*TODO/Bucketlist\*\*
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"
