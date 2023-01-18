@@ -8,8 +8,9 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 - <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook-mail" /> bcha92@hotmail.com
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> <a href="https://www.linkedin.com/in/brandoncha/">LinkedIn</a>
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcha92&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcha92&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://readme-stats.clckblog.space/api?username=bcha92&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=bcha92&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages, Tools, and Frameworks
 <!--Javascript Frontend Frameworks-->Javascript-based Frontend Frameworks and Libraries
