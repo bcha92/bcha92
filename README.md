@@ -66,11 +66,12 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
 
 <a href="https://www.credly.com/badges/bf30cb3e-e6c6-4592-8e6c-027fdd871e9e/public_url" target="_blank">
   <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws-cloud-quest-cloud-practitioner" />
-</a> <a href="https://www.credly.com/badges/fc28e27b-500d-4321-9eb4-9868cd164699/public_url" target="_blank">
+</a>
+<a href="https://www.credly.com/badges/fc28e27b-500d-4321-9eb4-9868cd164699/public_url" target="_blank">
   <img src="https://images.credly.com/size/150x150/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="aws-cloud-quest-cloud-practitioner" />
 </a>
 
---
+---
 
 <!--Azure Badges-->
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="microsoft azure"
@@ -80,10 +81,12 @@ Hello World! I'm a Full-Stack Web Developer and Self-taught Programmer with a ke
   <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="microsoft-certified-azure-fundamentals" />
 </a>
 
+<!--
 ### \*\*TODO/Bucketlist\*\*
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"
 /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"
 />
+-->
 
 ---
 
